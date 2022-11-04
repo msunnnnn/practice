@@ -1,6 +1,7 @@
 "use strict";
 
 //Nov 3, 2022
+// need more practice
 
 var mergeTwoLists = function(list1, list2) {
   //make new list
